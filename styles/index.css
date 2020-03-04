@@ -1,0 +1,18 @@
+body, html {
+    margin: 0px;
+    height: 100vh;
+}
+
+.container1, .container2 {
+    margin: 20px;
+    width: 1152px;
+    height: 700px;
+    margin-bottom: 46px;
+    background-color: #CC8B8C;
+}
+
+.container2 {
+    
+    background-color: #7180AC;
+
+}
